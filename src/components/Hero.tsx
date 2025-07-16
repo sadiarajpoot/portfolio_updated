@@ -95,7 +95,7 @@ export default function HeroSection() {
               HIRE ME →
             </button>
 <a
-  href="/Sadia_Resume.pdf"
+  href="/SadiaKhanResume.pdf"
   download
   target="_blank"
   rel="noopener noreferrer"

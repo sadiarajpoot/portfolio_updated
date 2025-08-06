@@ -129,15 +129,7 @@ export default function Footer() {
                <a href="https://wa.me/923158569811" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
                 <FaWhatsapp size={24} />
               </a>
-              <a href="https://www.upwork.com/freelancers/~01b648eabc78eda764" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
-                <SiUpwork size={24} />
-              </a>
-              <a href="https://www.fiverr.com/sadiakhan562/buying?source=avatar_menu_profile" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
-                <SiFiverr size={24} />
-              </a>
-              <a href="https://www.freelancer.com/get/sadiak808?f=give" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-orange-400 transition-colors duration-300">
-                <SiFreelancer size={24} />
-              </a>
+          
             </motion.div>
           </div>
         </motion.div>
